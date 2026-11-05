@@ -5,4 +5,4 @@ Public site of Scout, in English (`/`), Danish (`/da/`) and French (`/fr/`). Pla
 - Styles follow the app's tokens (`scout-app/src/lib/theme.ts`).
 - Screenshots in `assets/img/` are taken from the live web app at phone size, one set per language.
 - Privacy text mirrors the `privacy` strings of the app (`scout-app/src/i18n/`): change both together.
-- Fraunces font: SIL Open Font License 1.1.
+- Source Serif 4 font: SIL Open Font License 1.1.
