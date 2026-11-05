@@ -1,6 +1,6 @@
 /* Scout public site. Same tokens as the app (scout-app/src/lib/theme.ts). */
-@font-face { font-family: "Fraunces"; font-weight: 600; font-display: swap; src: url("fonts/Fraunces_600SemiBold.ttf") format("truetype"); }
-@font-face { font-family: "Fraunces"; font-weight: 700; font-display: swap; src: url("fonts/Fraunces_700Bold.ttf") format("truetype"); }
+@font-face { font-family: "Source Serif 4"; font-weight: 600; font-display: swap; src: url("fonts/SourceSerif4_600.woff2") format("woff2"); }
+@font-face { font-family: "Source Serif 4"; font-weight: 700; font-display: swap; src: url("fonts/SourceSerif4_700.woff2") format("woff2"); }
 
 :root {
   --bg: #F5EFE6;
@@ -12,7 +12,7 @@
   --accent: #3D9BF5;
   --accent-ink: #1F6FC4;
   --radius: 22px;
-  --serif: "Fraunces", Georgia, serif;
+  --serif: "Source Serif 4", Georgia, serif;
   --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
